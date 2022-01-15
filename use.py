@@ -1,0 +1,5 @@
+print("""
+#
+#
+#pip install colorama
+""")
